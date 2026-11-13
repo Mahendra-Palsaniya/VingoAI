@@ -15,8 +15,6 @@
 
 **Maintainer of this repository:** Mahendra Palsaniya
 
-Based on [Vingo AI Food Platform by AyushCipher](https://github.com/AyushCipher/Vingo-AI-Food-Platform/tree/9b8f7690146d3b81ed596e761de0b860a388613c).
-
 ## 🌟 Overview
 
 Vingo is an enterprise-grade food delivery and social commerce platform architected for three distinct personas: **Customers**, **Restaurant Owners**, and **Delivery Partners**. It unifies restaurant discovery, dynamic cart & checkout with Razorpay, live GPS delivery routing, menu analytics, video reel engagement, and a live-grounded conversational AI assistant.
